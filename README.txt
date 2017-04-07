@@ -1,7 +1,20 @@
 # BarterBlockchainPlatform
 BATA.io Barter Blockchain Platform
 
-"10 million has been decided to be the first initial max coins set for BTA, once we approach that amount, we will discuss further with the BTA community a controlled increase if required. BTA has been designed to maintain a store of wealth for the long-term. Barter Tokens MAY not have a maximum supply, they've been designed for the problem you mentioned above, liquidity constraints. By allowing the markets to control the rate of exchange between the Barter Trade Token <-> BTA / Stratis / Bitcoin; They will self-regulate demand/supply within the platform. By creating an internal exchange that restricts the exchange-ability to and from external exchanges, this creates a marketplace (Barter Blockchain Platform) that discourages hoarding. Preventing external use of the Tokens aside for within the platform itself only. We're attempting to create a digital framework that incorporates "asset-backing" economics for stability. If all Barter Trade Tokens are worth their value held in an existing block-chain (Bitcoin/BTA/Stratis) then the Trade Tokens themselves will not be subject to centralized inflationary and deflationary pressures. Their exchange-ability to other crypto-coins such as Stratis and Bitcoin will help diversify external market pressures on the platform. We feel that BTA will not need to have a large quantity of coins in circulation."
+"10 million has been decided to be the first initial max coins set for BTA, once we approach that amount,
+ we will discuss further with the BTA community a controlled increase if required. BTA has been designed
+ to maintain a store of wealth for the long-term. Barter Tokens MAY not have a maximum supply, they've
+ been designed for the problem you mentioned above, liquidity constraints. By allowing the markets to
+ control the rate of exchange between the Barter Trade Token <-> BTA / Stratis / Bitcoin; They will
+ self-regulate demand/supply within the platform. By creating an internal exchange that restricts the
+ exchange-ability to and from external exchanges, this creates a marketplace (Barter Blockchain Platform)
+ that discourages hoarding. Preventing external use of the Tokens aside for within the platform itself only.
+ We're attempting to create a digital framework that incorporates "asset-backing" economics for stability.
+ If all Barter Trade Tokens are worth their value held in an existing block-chain (Bitcoin/BTA/Stratis)
+ then the Trade Tokens themselves will not be subject to centralized inflationary and deflationary pressures.
+ Their exchange-ability to other crypto-coins such as Stratis and Bitcoin will help diversify external
+ market pressures on the platform. We feel that BTA will not need to have a large quantity of coins in
+ circulation."
 
 ============================================================================================
 
