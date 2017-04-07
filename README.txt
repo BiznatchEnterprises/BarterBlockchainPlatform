@@ -84,4 +84,6 @@ $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 BTA-WALLET APIs (Client) [Connection to Platform]
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 
-A work in progress...
+getmarkets            ARGS: none       RETURNS: [Items for sale]
+getmarketinfo         ARGS: none       RETURNS: [Item, Price, seller, date]
+
