@@ -20,7 +20,7 @@ diversify external market pressures on the platform. We feel that BTA will not n
 have a large quantity of coins in circulation."
 
 ============================================================================================
-
+'''
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 BTA-WALLET APIs (Server)  [Connection from Platform]
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
@@ -104,4 +104,4 @@ $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 
 getmarkets            ARGS: none       RETURNS: [Items for sale]
 getmarketinfo         ARGS: none       RETURNS: [Item, Price, seller, date]
-
+'''
